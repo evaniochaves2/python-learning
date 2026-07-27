@@ -18,10 +18,12 @@ This repository documents my journey learning Python for engineering, automation
 
 ## Progress
 
-### Day 1
+### Day 1 ✅
+- ✅ Hello World
 - ✅ print()
 - ✅ Variables
 - ✅ Data Types
 - ✅ Input
 - ✅ Math
 - ✅ Strings
+- ✅ Engineering Profile Project
