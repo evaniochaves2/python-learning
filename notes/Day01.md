@@ -37,6 +37,22 @@ len()
 
 .lower()
 
+## Keywords Learned
+
+print
+
+input
+
+str
+
+int
+
+float
+
+bool
+
+f-string
+
 ## Problems I Had
 
 Area printed as:
@@ -62,3 +78,33 @@ len()
 .upper()
 
 .lower()
+
+What is a variable?
+A variable is a named location in memory used to store a value that can be used or changed throughout a program.
+
+What is the difference between str, int, float, bool? 
+str → text
+int → whole numbers
+float → numbers with decimal places
+bool → True or False
+
+What does input() do?
+input() always returns the user's input as a string.
+
+What does print() do?
+prints a statemant or value accordingly
+
+What are f-strings?
+An f-string is a special kind of string that lets you insert variables directly into text.
+
+What new thing surprised you today? 
+the similarity between C and Python but also the subtle differences and changes.
+
+What was difficult?
+Adapting to the simplicity of the language
+
+What was easy?
+writing my own words and following steps as is
+
+What would you like to build with Python?
+Definetely! I am falling in love with the language every single moment
