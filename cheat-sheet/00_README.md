@@ -1,39 +1,54 @@
-# Python Cheat Sheet
+# Python Cheat Sheets
 
-A quick reference for Python concepts learned throughout this repository.
+This folder contains quick-reference guides for the Python concepts I have learned throughout my journey toward engineering, automation, robotics, and embedded systems.
+
+Each cheat sheet summarizes key concepts, syntax, examples, common mistakes, and engineering applications.
+
+---
 
 ## Fundamentals
 
+### Python Basics
+
+Topics Covered:
+
 - Variables
 - Data Types
-- Input / Output
+- User Input
+- Type Conversion
+- Printing
 - Strings
+- String Methods
 - f-Strings
-- Math Operations
+- Math Operators
+- Comments
 
 📄 See: `01_python_basics.md`
 
 ---
 
-## Conditionals
+### Conditionals
 
-- if
-- elif
-- else
+Topics Covered:
+
+- Boolean Values
 - Comparison Operators
-- Boolean Logic
+- `if`
+- `elif`
+- `else`
+- Logical Operators (`and`, `or`, `not`)
 
 📄 See: `02_conditionals.md`
 
 ---
 
-## Loops
+## Current Progress
 
-- for
-- while
-- break
-- continue
+### Completed
 
-📄 See: `03_loops.md`
+- ✅ Python Basics
+- ✅ Conditionals
 
-...
+### Next
+
+- ⏳ Loops (`for` and `while`)
