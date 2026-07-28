@@ -2,21 +2,21 @@
 
 This repository documents my journey learning Python for engineering, automation, robotics, and embedded systems.
 
-The goal is to develop practical programming skills by building engineering-focused tools and projects.
+My goal is to build practical programming skills by developing real-world engineering applications and creating a professional engineering portfolio.
 
 ---
 
-## Objectives
+# Objectives
 
-- Learn Python fundamentals
-- Build engineering automation tools
-- Automate repetitive engineering tasks
-- Analyze and process technical data
-- Prepare for robotics and embedded systems development
+- Learn Python from beginner to advanced
+- Build engineering-focused applications
+- Automate engineering workflows
+- Develop skills for robotics, PLCs, and embedded systems
+- Build a professional GitHub portfolio
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```text
 python-learning/
@@ -43,41 +43,41 @@ python-learning/
 
 ## Day 1 ✅
 
-### Python Fundamentals
-
 Completed:
 
-- ✅ Hello World
-- ✅ `print()`
-- ✅ Variables
-- ✅ Data Types
-- ✅ User Input
-- ✅ Type Conversion
-- ✅ Math Operations
-- ✅ Strings
-- ✅ f-Strings
-- ✅ Basic Conditional Logic
+- Python Basics
+- Variables
+- Data Types
+- User Input
+- Type Conversion
+- Strings
+- String Methods
+- f-Strings
+
+### Mini Project
+
+**Engineering Calculator**
+
+Features:
+
+- Ohm's Law Calculator
+- Area Calculator
+- Volume Calculator
+- Unit Converter
+- Torque Calculator
 
 ---
 
-## Mini Project
+## Day 2 ✅
 
-### Equipment Health Calculator
+Completed:
 
-A Python program that evaluates equipment reliability based on:
-
-- Operating hours
-- Failure count
-- Temperature
-- Vibration level
-
-Concepts applied:
-
-- Variables
-- User input
-- Calculations
-- Conditional statements
-- Formatted output
+- Comparison Operators
+- Boolean Values
+- `if`
+- `if/else`
+- `elif`
+- Logical Operators (`and`, `or`, `not`)
 
 ---
 
@@ -85,73 +85,88 @@ Concepts applied:
 
 ## Python Fundamentals
 
-- Variables and data types
-- Conditional logic
-- Loops
-- Lists
-- Functions
-- File handling
+- ✅ Variables
+- ✅ Data Types
+- ✅ User Input
+- ✅ Strings
+- ✅ f-Strings
+- ✅ Conditional Statements
+- ⏳ Loops
+- ⏳ Lists
+- ⏳ Dictionaries
+- ⏳ Functions
+- ⏳ Modules
+- ⏳ File Handling
+- ⏳ Object-Oriented Programming
+
+---
 
 ## Engineering Applications
 
+- Equipment monitoring
 - Data logging
 - CSV reports
-- Equipment monitoring tools
 - Maintenance automation
-- Data analysis
+- Sensor data processing
+- Production data analysis
+
+---
 
 ## Future Topics
 
-- Object-Oriented Programming
+- NumPy
+- Pandas
+- Matplotlib
+- SQLite
 - APIs
-- Databases
-- Automation scripts
-- Robotics applications
+- GUI Development
+- Serial Communication
+- STM32 Integration
+- Automation Scripts
+- Git & GitHub
+- Testing with pytest
+
+---
+
+# Mini Projects
+
+| Day | Project | Description |
+|-----|---------|-------------|
+| Day 1 | Engineering Calculator | Performs engineering calculations including Ohm's Law, unit conversions, area, volume, and torque calculations. |
+| Day 2 | Engineering Safety Monitor | Monitors equipment temperature and pressure to determine system status and trigger safety warnings or emergency shutdowns. |
+| Day 3 | *(Coming Soon)* | Loops-based engineering project |
+| Day 4 | *(Coming Soon)* | Lists project |
+| Day 5 | *(Coming Soon)* | Functions project |
+
+---
+
+# Future Portfolio Projects
+
+- Equipment Maintenance Logger
+- Equipment Data Analyzer
+- Maintenance Report Generator
+- Maintenance Database
+- PLC Log Analyzer
+- Industrial Monitoring Dashboard
+- Production Counter
+- Sensor Data Logger
+- STM32 Data Logger
+- Engineering Toolbox
+- Predictive Maintenance Tool
 
 ---
 
 # Long-Term Goal
 
-Use Python as a tool for developing engineering solutions involving:
+Use Python to develop engineering solutions for:
 
 - Industrial automation
 - Robotics systems
 - Embedded systems
 - Equipment monitoring
-- Engineering workflow optimization
-- Data-driven maintenance solutions
-
----
-
-# Skills Acquired
-
-- Python programming fundamentals
-- Engineering problem solving
-- Data processing concepts
-- Automation scripting foundations
-- Technical documentation
-- Software development workflow using Git
-
----
-
-# Projects
-
-| Project | Description | Concepts |
-|---|---|---|
-| Equipment Health Calculator | Reliability scoring tool | Variables, input, calculations, conditions |
-
----
-
-# Future Project Ideas
-
-Potential engineering-focused projects:
-
-- Equipment maintenance tracker
-- Sensor data logger
-- CSV maintenance report generator
-- Robot telemetry analyzer
-- PLC data monitoring dashboard
-- Embedded systems support tools
+- Predictive maintenance
+- Manufacturing analytics
+- Engineering workflow automation
 
 ---
 
@@ -159,4 +174,4 @@ Potential engineering-focused projects:
 
 Learn by building practical engineering solutions.
 
-The goal is not only to learn programming syntax, but to use Python as a tool for solving real-world engineering problems.
+Every concept is reinforced through engineering-focused mini projects and larger portfolio applications that solve real-world problems.
