@@ -2,15 +2,22 @@
 
 This folder contains quick-reference guides for the Python concepts I have learned throughout my journey toward engineering, automation, robotics, and embedded systems.
 
-Each cheat sheet summarizes key concepts, syntax, examples, common mistakes, and engineering applications.
+Each cheat sheet summarizes:
+- Key concepts
+- Syntax
+- Examples
+- Common mistakes
+- Engineering applications
+
+The goal is to build a personal reference manual that I can use for review, interview preparation, and future embedded software development.
 
 ---
 
-## Fundamentals
+# Fundamentals
 
-### Python Basics
+## Python Basics
 
-Topics Covered:
+**Topics Covered:**
 
 - Variables
 - Data Types
@@ -23,13 +30,13 @@ Topics Covered:
 - Math Operators
 - Comments
 
-📄 See: `01_python_basics.md`
+📄 **See:** `01_python_basics.md`
 
 ---
 
-### Conditionals
+## Conditionals
 
-Topics Covered:
+**Topics Covered:**
 
 - Boolean Values
 - Comparison Operators
@@ -38,17 +45,52 @@ Topics Covered:
 - `else`
 - Logical Operators (`and`, `or`, `not`)
 
-📄 See: `02_conditionals.md`
+📄 **See:** `02_conditionals.md`
 
 ---
 
-## Current Progress
+## Loops
 
-### Completed
+**Topics Covered:**
+
+- `for` Loops
+- `while` Loops
+- `range()`
+- Infinite Loops
+- `break`
+- `continue`
+- Nested Loops
+- Common Mistakes
+- Engineering Applications
+
+📄 **See:** `03_python_loops.md`
+
+---
+
+# Current Progress
+
+## Completed
 
 - ✅ Python Basics
 - ✅ Conditionals
+- ✅ Loops
 
-### Next
+---
 
-- ⏳ Loops (`for` and `while`)
+## Upcoming Topics
+
+- ⏳ Functions
+- ⏳ Lists
+- ⏳ Tuples
+- ⏳ Dictionaries
+- ⏳ Sets
+- ⏳ File Handling
+- ⏳ Exception Handling
+- ⏳ Modules & Packages
+- ⏳ Object-Oriented Programming (OOP)
+
+---
+
+# Long-Term Goal
+
+After mastering Python, I will continue applying these concepts to embedded software development using STM32 microcontrollers. This repository will grow alongside my learning journey and serve as a comprehensive reference for robotics, automation, and embedded systems.
